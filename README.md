@@ -69,7 +69,7 @@ Um site bio estilo Discord com diversos efeitos visuais e interativos. Este proj
 [![Ver Projeto](https://img.shields.io/badge/Ver_Projeto-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/smithszz/smithszz.github.io)
 
 ###  ItsCrazy
-**Rede de Servidores Minecraft** | `Go` `Documentação`
+**Rede de Servidores Minecraft** | `Java` `Curioso :3`
 
 Repositório oficial da ItsCrazy.com.br, rede de servidores minecraft, atualmente focada no Survival Realm 
 
